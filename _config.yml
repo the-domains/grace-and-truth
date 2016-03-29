@@ -1,0 +1,28 @@
+name: Grace and Truth
+favicon: null
+layout_spectrum: 0.6947489052545279
+typography_spectrum: 0.3325460874475539
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.7934021281544119
+  lightness: 0.021288705058395863
+  saturation: 0.005050919251516461
+  rhythmicContrast: 0.06924746301956475
+purpose: []
